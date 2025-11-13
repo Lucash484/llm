@@ -30,3 +30,4 @@ Notes and usage details for llm.
 - fix a small wording issue
 - add a note about the defaults
 - clarify the setup steps
+- fix a small wording issue
